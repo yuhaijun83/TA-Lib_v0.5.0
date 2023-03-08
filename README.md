@@ -6,8 +6,8 @@ Copy from https://github.com/TA-Lib/ta-lib
 官方发布版只提供了源代码，没有提供64-bit的C编译库，那就自己编译一个吧。
 (https://ta-lib.org/hdr_dw.html)
 
-指标简介:
-AD                  Chaikin A/D Line
+各指标简介:
+<pre>AD                  Chaikin A/D Line
 ADOSC               Chaikin A/D Oscillator
 ADX                 Average Directional Movement Index
 ADXR                Average Directional Movement Index Rating
@@ -144,4 +144,4 @@ ULTOSC              Ultimate Oscillator
 VAR                 Variance
 WCLPRICE            Weighted Close Price
 WILLR               Williams' %R
-WMA                 Weighted Moving Average
+WMA                 Weighted Moving Average</pre>
