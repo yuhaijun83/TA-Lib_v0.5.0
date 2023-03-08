@@ -3,6 +3,8 @@ TA-Lib - Technical Analysis Library 金融量化分析技术分析库
 
 Copy from https://github.com/TA-Lib/ta-lib
 
+官方发布版只提供了源代码，没有提供64-bit的编译库，那就自己编译一个吧。
+
 ##### Windows
 
 Download [TA-Lib-0.5.0.zip]
