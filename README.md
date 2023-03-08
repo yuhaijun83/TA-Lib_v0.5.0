@@ -4,6 +4,7 @@ TA-Lib - Technical Analysis Library 金融量化分析技术分析库
 Copy from https://github.com/TA-Lib/ta-lib
 
 官方发布版只提供了源代码，没有提供64-bit的编译库，那就自己编译一个吧。
+(https://ta-lib.org/hdr_dw.html)
 
 ##### Windows
 
@@ -25,7 +26,3 @@ and unzip to ``C:\TA-Lib``.
 >    * Move to ``C:\TA-Lib\c\make\cdr\win32\msvc``
 >    * Build the Library ``nmake``
 
-You might also try these unofficial windows binaries for both 32-bit and
-64-bit:
-
-https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
