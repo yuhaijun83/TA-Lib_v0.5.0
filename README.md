@@ -1,7 +1,7 @@
 # TA-Lib
 TA-Lib - Technical Analysis Library 金融量化分析技术分析库
 
-Fork from https://github.com/TA-Lib/ta-lib
+Copy from https://github.com/TA-Lib/ta-lib
 
 ##### Windows
 
